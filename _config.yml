@@ -1,0 +1,11 @@
+title: Particle Clicker Development
+email: particle-clicker@googlegroups.com
+description: >
+  This is the development blog of the team behind Particle Clicker, an addictive incremental game about particle physics. We write about how the game was made and which improvements are ongoing.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://particle-clicker.github.io" # the base hostname & protocol for your site
+twitter_username: particleclicker
+github_username:  particle-clicker
+
+markdown: redcarpet
+highlighter: pygments
