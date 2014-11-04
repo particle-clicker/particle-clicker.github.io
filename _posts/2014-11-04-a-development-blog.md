@@ -2,6 +2,7 @@
 layout: post
 title:  "A Development Blog"
 date:   2014-11-04 01:24:00
+author: Kevin
 categories: blog
 ---
 
