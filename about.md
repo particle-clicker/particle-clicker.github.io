@@ -19,4 +19,4 @@ During the CERN Webfest, the team was also supported by [Jiannan Zhang](http://w
 ## On the Web
 
 The game can be found on [http://particle-clicker.web.cern.ch](http://particle-clicker.web.cern.ch).
-There is a [<i class="fa fa-github"></i> GitHub organisation](https://github.com/particle-clicker) and a [<i class="fa fa-twitter"></i> Twitter account](https://twitter.com/particleclicker). You can reach us by mail via particle-clicker [at] googlegroups [dot] com.
+There is a [<i class="fa fa-github"></i> GitHub organisation](https://github.com/particle-clicker) and a [<i class="fa fa-twitter"></i> Twitter account](https://twitter.com/particleclicker). You can reach us by mail via [particle-clicker@googlegroups.com](mailto:particle-clicker@googlegroups.com).
